@@ -1,9 +1,8 @@
 # YAAP releases for mojito
 
-#### Maintainers
+#### Maintainer(s)
 
 - cyberknight777
-- blurzyy
 
 #### Build flavor
 
