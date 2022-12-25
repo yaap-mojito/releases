@@ -34,11 +34,11 @@ Why is the flashing process complex?
 
 Will YAAP be maintained officially?
 
-- That is still undecided at the moment, if any of us gets a permanent solution to be able to consistently build YAAP, then we will apply for official.
+- That is still undecided at the moment, if I get a permanent solution to be able to consistently build YAAP, then I will apply for official.
 
 Will we get OTA support?
 
-- OTA support requires building the ROM as an otapackage and we don't intend to move to otapackage.
+- OTA support requires building the ROM as an otapackage and I don't intend to move to otapackage.
 
 Can I change kernel?
 
@@ -46,11 +46,11 @@ Can I change kernel?
 
 Can I change recovery to TWRP or OFOX?
 
-- No. Doing that effectively puts you in our ignore list if you were to face bugs.
+- No. Doing that effectively puts you in my ignore list if you were to face bugs.
 
 Can I flash GAPPS in homemade build?
 
-- No. The rom has gmscompat inbuilt. Flashing gapps effectively puts you in our ignore list if you were to face bugs.
+- No. The rom has gmscompat inbuilt. Flashing gapps effectively puts you in my ignore list if you were to face bugs.
 
 What is gmscompat?
 
@@ -58,7 +58,7 @@ What is gmscompat?
 
 Can you build MiCamera in the ROM?
 
-- No. You can use custom mods out there for it. We will not build it in the ROM.
+- No. You can use custom mods out there for it. I will not build it in the ROM.
 
 Can I flash DFE?
 
@@ -66,7 +66,7 @@ Can I flash DFE?
 
 Can I make a feature request?
 
-- No. We do not accept feature requests.
+- No. I do not accept feature requests.
 
 How to report bugs?
 
